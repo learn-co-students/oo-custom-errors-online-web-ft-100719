@@ -16,7 +16,7 @@ class Person
     else
       person.partner = self
     end
-  end
+  endlearn
 
   class PartnerError < StandardError
     def message
